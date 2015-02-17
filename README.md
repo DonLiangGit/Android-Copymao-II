@@ -1,2 +1,4 @@
 # Android-Copymao-II
-Android Web Apps
+### Beginner
+* (Just assume you are interested in Mobile Development but with very little programming.)
+* Installation:
